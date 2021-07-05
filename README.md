@@ -1,1 +1,1 @@
-To start the attack your target must have less secure apps on
+To start the attack the target must have less secure apps on
